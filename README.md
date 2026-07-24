@@ -25,8 +25,7 @@
 ---
 
 ## 📢 News
-- [2026/04] 📃 We created this repository to share updates and related literature!
-- [2026/04] 🎉 Our survey *AI for Productivity in the Agentic Era* is released! See the paper for details.
+- [2026/07] 📃 We created this repository to share updates and related literature!
 
 ---
 
