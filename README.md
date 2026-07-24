@@ -1,5 +1,7 @@
 <div align="center">
-  <h1>AI for Productivity Survey</h1>
+  <h1>AI for Productivity in the Agentic Era</h1>
+
+  <p><i>The paper list for the survey "AI for Productivity in the Agentic Era", by The AI4X Project Team.</i></p>
 
   <p>
     <a href="https://arxiv.org/abs/xxxx.xxxxx">
@@ -8,10 +10,10 @@
     <a href="https://huggingface.co/papers/xxxx.xxxxx">
       <img src="https://img.shields.io/badge/Hugging%20Face-Paper-FFD21E?style=flat-square&logo=huggingface" alt="Hugging Face Paper">
     </a>
-    <a href="https://github.com/zhesun-0209/AI-For-Productivity-Paper-List">
-      <img src="https://img.shields.io/github/stars/zhesun-0209/AI-For-Productivity-Paper-List?style=flat-square&color=24292F&logo=github&logoColor=white&label=Stars" alt="GitHub Stars">
+    <a href="https://github.com/ai4x-org/AI4Prod">
+      <img src="https://img.shields.io/github/stars/ai4x-org/AI4Prod?style=flat-square&color=24292F&logo=github&logoColor=white&label=Stars" alt="GitHub Stars">
     </a>
-    <a href="https://github.com/zhesun-0209/AI-For-Productivity-Paper-List/blob/main/LICENSE">
+    <a href="https://github.com/ai4x-org/AI4Prod/blob/main/LICENSE">
       <img src="https://img.shields.io/badge/License-MIT-2EA44F?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="License">
     </a>
     <a href="#citation">
@@ -23,8 +25,8 @@
 ---
 
 ## 📢 News
-- [2026/04/] 📃 We created this repository to share updates and related literature!
-- [2026/04/] 🎉 Our survey is released! See # for the paper!
+- [2026/04] 📃 We created this repository to share updates and related literature!
+- [2026/04] 🎉 Our survey *AI for Productivity in the Agentic Era* is released! See the paper for details.
 
 ---
 
@@ -60,7 +62,12 @@
   <img src="figures/main.png" alt="AI for Productivity overview" width="95%">
 </p>
 
-This figure presents a comprehensive **4-stage evolutionary framework** for Agentic AI adoption across industries, mapping the progression from **human-supervised conversational assistants** to **fully autonomous self-governing production systems**.
+We define **AI for Productivity (AI4Productivity)** as the use of Agentic AI in real workflows to deliver economically valuable work with less human effort. Our survey explains how agentic AI converts technical capability into sustained productivity through **two mechanisms** and **four stages of delegated production responsibility**:
+
+- **Two mechanisms of productivity gains** — the **Efficiency Mechanism**, which reduces the time and labor required for existing work, and the **Expansion Mechanism**, which makes previously infeasible work economically viable.
+- **Four delegation stages** — a progression from **human-supervised conversational assistants** to **fully autonomous self-governing production systems**.
+
+Using this framework, we assess how agentic AI is currently embedded across **nine industries**, grouped into three levels of diffusion, and extract cross-sector insights on where productivity gains are visible, where they remain constrained, and what conditions enable deeper diffusion.
 
 ---
 
@@ -95,8 +102,6 @@ In this phase, AI penetration remains limited, with applications focused on effi
 - 🌾 **Agriculture**: Plant disease diagnosis, agricultural decision support, consultation cross-validation
 - 🏠 **Real Estate**: Property price estimation, transaction information extraction, property marketing copywriting
 - 🏛️ **Government & Public Administration**: Administrative business consultation, social stimulation, administrative document writing
-
-<a id="manufacturing"></a>
 
 <a id="manufacturing"></a>
 
@@ -321,10 +326,10 @@ In this phase, AI achieves pervasive penetration, enabling end-to-end autonomous
 If you find this repository useful, please cite our survey:
 
 ```bibtex
-@article{your_survey,
-  title={AI for Productivity Survey},
-  author={},
-  journal={},
+@article{ai4x2026ai4productivity,
+  title={AI for Productivity in the Agentic Era},
+  author={The AI4X Project Team},
+  journal={arXiv preprint arXiv:xxxx.xxxxx},
   year={2026}
 }
 ```
@@ -341,10 +346,10 @@ Please feel free to open an issue or submit a pull request!
 
 ### 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=zhesun-0209/AI-For-Productivity-Paper-List&type=Date)](https://www.star-history.com/#zhesun-0209/AI-For-Productivity-Paper-List&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ai4x-org/AI4Prod&type=Date)](https://www.star-history.com/#ai4x-org/AI4Prod&Date)
 
 ### 👥 Contributors
 
-<a href="https://github.com/zhesun-0209/AI-For-Productivity-Paper-List/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=zhesun-0209/AI-For-Productivity-Paper-List" />
+<a href="https://github.com/ai4x-org/AI4Prod/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ai4x-org/AI4Prod" />
 </a>
