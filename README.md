@@ -4,9 +4,6 @@
   <p><i>The paper list for the survey "AI for Productivity in the Agentic Era", by The AI4X Project Team.</i></p>
 
   <p>
-    <a href="https://arxiv.org/abs/xxxx.xxxxx">
-      <img src="https://img.shields.io/badge/arXiv-xxxx.xxxxx-B31B1B?style=flat-square&logo=arXiv&logoColor=white" alt="arXiv">
-    </a>
     <a href="https://huggingface.co/papers/xxxx.xxxxx">
       <img src="https://img.shields.io/badge/Hugging%20Face-Paper-FFD21E?style=flat-square&logo=huggingface" alt="Hugging Face Paper">
     </a>
