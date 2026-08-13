@@ -326,11 +326,12 @@ In this phase, AI achieves pervasive penetration, enabling end-to-end autonomous
 If you find this repository useful, please cite our paper:
 
 ```bibtex
-@article{ai4x2026ai4productivity,
-  title={AI for Productivity in the Agentic Era},
-  author={The AI4X Project Team},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
-  year={2026}
+@article{xi2026ai4productivity,
+  title   = {{AI for Productivity in the Age of Agentic AI}},
+  author  = {Xi, Zhiheng and Zhou, Enyu and Fang, Xinyu and Sun, Zhe and Huang, Baodai and Sun, Jiajun and Deng, Bicheng and Zhang, Zhihao and Chen, Wenxiang and Zhang, Jiazheng and Guo, Xin and Liu, Shichun and Lei, Zhikai and Wang, Junke and Jin, Senjie and Nan, Yang and Yang, Yajie and Zheng, Rui and Yan, Hang and Yang, Mengyue and He, Yinghui and Tian, Yuchen and Qian, Cheng and Zhao, Xuandong and Yin, Zhenfei and Yang, Ling and Zhuge, Mingchen and Wu, Fang and Ying, Kejun and Wu, Yingcheng and Wang, Jun and Torr, Philip and Wu, Zuxuan and Qiu, Xipeng and Zhang, Qi and Huang, Xuanjing and Gui, Tao and Jiang, Yu-Gang},
+  journal = {OpenReview},
+  year    = {2026},
+  url     = {https://openreview.net/forum?id=KcFEc6LfDh}
 }
 ```
 
