@@ -1,10 +1,10 @@
 <div align="center">
   <h1>AI for Productivity in the Agentic Era</h1>
 
-  <p><i>The paper list for the survey "AI for Productivity in the Agentic Era", by The AI4X Project Team.</i></p>
+  <p><i>The paper list for the Paper "AI for Productivity in the Agentic Era", by The AI4X Project Team.</i></p>
 
   <p>
-    <strong>📄 <a href="https://openreview.net/forum?id=KcFEc6LfDh">Read the Full Survey (PDF)</a></strong>
+    <strong>📄 <a href="https://openreview.net/forum?id=KcFEc6LfDh">Read the Full Paper </a></strong>
   </p>
 
   <p>
@@ -62,7 +62,7 @@
   <img src="figures/main.png" alt="AI for Productivity overview" width="95%">
 </p>
 
-We define **AI for Productivity (AI4Productivity)** as the use of Agentic AI in real workflows to deliver economically valuable work with less human effort. Our survey explains how agentic AI converts technical capability into sustained productivity through **two mechanisms** and **four stages of delegated production responsibility**:
+We define **AI for Productivity (AI4Productivity)** as the use of Agentic AI in real workflows to deliver economically valuable work with less human effort. Our paper explains how agentic AI converts technical capability into sustained productivity through **two mechanisms** and **four stages of delegated production responsibility**:
 
 - **Two mechanisms of productivity gains** — the **Efficiency Mechanism**, which reduces the time and labor required for existing work, and the **Expansion Mechanism**, which makes previously infeasible work economically viable.
 - **Four delegation stages** — a progression from **human-supervised conversational assistants** to **fully autonomous self-governing production systems**.
@@ -323,7 +323,7 @@ In this phase, AI achieves pervasive penetration, enabling end-to-end autonomous
 
 ## 📖 Citation
 
-If you find this repository useful, please cite our survey:
+If you find this repository useful, please cite our paper:
 
 ```bibtex
 @article{ai4x2026ai4productivity,
