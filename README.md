@@ -4,7 +4,7 @@
   <p><i>The paper list for the survey "AI for Productivity in the Agentic Era", by The AI4X Project Team.</i></p>
 
   <p>
-    <strong>📄 <a href="./AI_for_Productivity_in_the_Agentic_Era.pdf">Read the Full Survey (PDF)</a></strong>
+    <strong>📄 <a href="https://openreview.net/forum?id=KcFEc6LfDh">Read the Full Survey (PDF)</a></strong>
   </p>
 
   <p>
