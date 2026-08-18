@@ -8,6 +8,9 @@
   </p>
 
   <p>
+    <a href="https://www.preprints.org/manuscript/202608.1248/v1">
+      <img src="https://img.shields.io/badge/Preprints-Paper-2F80ED?style=flat-square" alt="Preprints Paper">
+    </a>
     <a href="https://huggingface.co/papers/xxxx.xxxxx">
       <img src="https://img.shields.io/badge/Hugging%20Face-Paper-FFD21E?style=flat-square&logo=huggingface" alt="Hugging Face Paper">
     </a>
@@ -18,7 +21,7 @@
       <img src="https://img.shields.io/badge/License-MIT-2EA44F?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="License">
     </a>
     <a href="#citation">
-      <img src="https://img.shields.io/badge/Citation-Coming%20Soon-1F69FF?style=flat-square&logo=semanticscholar&logoColor=white" alt="Citation">
+      <img src="https://img.shields.io/badge/Citation-BibTeX-1F69FF?style=flat-square&logo=semanticscholar&logoColor=white" alt="Citation">
     </a>
   </p>
 </div>
@@ -326,12 +329,13 @@ In this phase, AI achieves pervasive penetration, enabling end-to-end autonomous
 If you find this repository useful, please cite our paper:
 
 ```bibtex
-@article{xi2026ai4productivity,
-  title   = {{AI for Productivity in the Age of Agentic AI}},
-  author  = {Xi, Zhiheng and Zhou, Enyu and Fang, Xinyu and Sun, Zhe and Huang, Baodai and Sun, Jiajun and Deng, Bicheng and Zhang, Zhihao and Chen, Wenxiang and Zhang, Jiazheng and Guo, Xin and Liu, Shichun and Lei, Zhikai and Wang, Junke and Jin, Senjie and Nan, Yang and Yang, Yajie and Zheng, Rui and Yan, Hang and Yang, Mengyue and He, Yinghui and Tian, Yuchen and Qian, Cheng and Zhao, Xuandong and Yin, Zhenfei and Yang, Ling and Zhuge, Mingchen and Wu, Fang and Ying, Kejun and Wu, Yingcheng and Wang, Jun and Torr, Philip and Wu, Zuxuan and Qiu, Xipeng and Zhang, Qi and Huang, Xuanjing and Gui, Tao and Jiang, Yu-Gang},
-  journal = {OpenReview},
-  year    = {2026},
-  url     = {https://openreview.net/forum?id=KcFEc6LfDh}
+@article{ai4x2026ai4productivity,
+  title={AI for Productivity in the Age of Agentic AI},
+  author={{The AI4X Project Team}},
+  journal={Preprints},
+  year={2026},
+  doi={10.20944/preprints202608.1248.v1},
+  url={https://www.preprints.org/manuscript/202608.1248/v1}
 }
 ```
 
